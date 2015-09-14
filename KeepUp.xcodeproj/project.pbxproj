@@ -7,25 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B60A9B001BA74CEE00F14BF3 /* backgroundMusic.wav in Resources */ = {isa = PBXBuildFile; fileRef = B60A9AFB1BA74CEE00F14BF3 /* backgroundMusic.wav */; };
+		B60A9B011BA74CEE00F14BF3 /* boo.wav in Resources */ = {isa = PBXBuildFile; fileRef = B60A9AFC1BA74CEE00F14BF3 /* boo.wav */; };
+		B60A9B021BA74CEE00F14BF3 /* cheer.wav in Resources */ = {isa = PBXBuildFile; fileRef = B60A9AFD1BA74CEE00F14BF3 /* cheer.wav */; };
+		B60A9B031BA74CEE00F14BF3 /* gameSong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B60A9AFE1BA74CEE00F14BF3 /* gameSong.mp3 */; };
+		B60A9B041BA74CEE00F14BF3 /* hit.caf in Resources */ = {isa = PBXBuildFile; fileRef = B60A9AFF1BA74CEE00F14BF3 /* hit.caf */; };
+		B60A9B111BA74D9F00F14BF3 /* HeadNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B60A9B061BA74D9F00F14BF3 /* HeadNode.m */; };
+		B60A9B121BA74D9F00F14BF3 /* GroundNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B60A9B081BA74D9F00F14BF3 /* GroundNode.m */; };
+		B60A9B131BA74D9F00F14BF3 /* BallNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B60A9B0A1BA74D9F00F14BF3 /* BallNode.m */; };
+		B60A9B141BA74D9F00F14BF3 /* HomePageScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B60A9B0C1BA74D9F00F14BF3 /* HomePageScene.m */; };
+		B60A9B151BA74D9F00F14BF3 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B60A9B0F1BA74D9F00F14BF3 /* GameScene.m */; };
+		B60A9B161BA74D9F00F14BF3 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = B60A9B101BA74D9F00F14BF3 /* GameScene.sks */; };
+		B60A9B181BA74DC200F14BF3 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B60A9B171BA74DC200F14BF3 /* AVFoundation.framework */; };
+		B60A9B1B1BA74E0E00F14BF3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B60A9B1A1BA74E0E00F14BF3 /* AppDelegate.m */; };
+		B60A9B221BA74FB000F14BF3 /* 1441323509_tmp_football__1_(iphone 5, 1).png in Resources */ = {isa = PBXBuildFile; fileRef = B60A9B1D1BA74FB000F14BF3 /* 1441323509_tmp_football__1_(iphone 5, 1).png */; };
+		B60A9B231BA74FB000F14BF3 /* 1441323573_tmp_football__1_(iphone 5, 2).png in Resources */ = {isa = PBXBuildFile; fileRef = B60A9B1E1BA74FB000F14BF3 /* 1441323573_tmp_football__1_(iphone 5, 2).png */; };
+		B60A9B241BA74FB000F14BF3 /* 1441323600_tmp_football__1_(3).png in Resources */ = {isa = PBXBuildFile; fileRef = B60A9B1F1BA74FB000F14BF3 /* 1441323600_tmp_football__1_(3).png */; };
+		B60A9B251BA74FB000F14BF3 /* 1441323638_tmp_football__1_(4).png in Resources */ = {isa = PBXBuildFile; fileRef = B60A9B201BA74FB000F14BF3 /* 1441323638_tmp_football__1_(4).png */; };
+		B60A9B261BA74FB000F14BF3 /* 1441323667_tmp_football__1_(5).png in Resources */ = {isa = PBXBuildFile; fileRef = B60A9B211BA74FB000F14BF3 /* 1441323667_tmp_football__1_(5).png */; };
 		B678CFCF1B94FA9E001B9B56 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFCE1B94FA9E001B9B56 /* main.m */; };
-		B678CFD21B94FA9E001B9B56 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFD11B94FA9E001B9B56 /* AppDelegate.m */; };
-		B678CFD51B94FA9E001B9B56 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFD41B94FA9E001B9B56 /* GameScene.m */; };
-		B678CFD71B94FA9E001B9B56 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = B678CFD61B94FA9E001B9B56 /* GameScene.sks */; };
 		B678CFDA1B94FA9E001B9B56 /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFD91B94FA9E001B9B56 /* GameViewController.m */; };
 		B678CFDD1B94FA9E001B9B56 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B678CFDB1B94FA9E001B9B56 /* Main.storyboard */; };
 		B678CFDF1B94FA9E001B9B56 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B678CFDE1B94FA9E001B9B56 /* Images.xcassets */; };
 		B678CFE21B94FA9E001B9B56 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B678CFE01B94FA9E001B9B56 /* LaunchScreen.xib */; };
 		B678CFEE1B94FA9E001B9B56 /* KeepUpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFED1B94FA9E001B9B56 /* KeepUpTests.m */; };
-		B678CFF91B94FB2F001B9B56 /* HomePageScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFF81B94FB2F001B9B56 /* HomePageScene.m */; };
-		B678CFFC1B9507FE001B9B56 /* GroundNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFFB1B9507FE001B9B56 /* GroundNode.m */; };
-		B678CFFF1B950BFA001B9B56 /* BallNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B678CFFE1B950BFA001B9B56 /* BallNode.m */; };
-		B678D0021B95F726001B9B56 /* HeadNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B678D0011B95F726001B9B56 /* HeadNode.m */; };
 		B678D0081B95F8AF001B9B56 /* football.png in Resources */ = {isa = PBXBuildFile; fileRef = B678D0041B95F8AF001B9B56 /* football.png */; };
 		B678D0091B95F8AF001B9B56 /* goal.png in Resources */ = {isa = PBXBuildFile; fileRef = B678D0051B95F8AF001B9B56 /* goal.png */; };
 		B678D00A1B95F8AF001B9B56 /* zidane1.png in Resources */ = {isa = PBXBuildFile; fileRef = B678D0061B95F8AF001B9B56 /* zidane1.png */; };
 		B678D00B1B95F8AF001B9B56 /* zidane2.png in Resources */ = {isa = PBXBuildFile; fileRef = B678D0071B95F8AF001B9B56 /* zidane2.png */; };
 		B678D00D1B960B08001B9B56 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = B678D00C1B960B07001B9B56 /* ball.png */; };
-		B678D0101B9655B0001B9B56 /* RestartLabelNode.m in Sources */ = {isa = PBXBuildFile; fileRef = B678D00F1B9655B0001B9B56 /* RestartLabelNode.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,14 +49,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B60A9AFB1BA74CEE00F14BF3 /* backgroundMusic.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = backgroundMusic.wav; sourceTree = "<group>"; };
+		B60A9AFC1BA74CEE00F14BF3 /* boo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = boo.wav; sourceTree = "<group>"; };
+		B60A9AFD1BA74CEE00F14BF3 /* cheer.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cheer.wav; sourceTree = "<group>"; };
+		B60A9AFE1BA74CEE00F14BF3 /* gameSong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gameSong.mp3; sourceTree = "<group>"; };
+		B60A9AFF1BA74CEE00F14BF3 /* hit.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = hit.caf; sourceTree = "<group>"; };
+		B60A9B051BA74D9F00F14BF3 /* HeadNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeadNode.h; sourceTree = "<group>"; };
+		B60A9B061BA74D9F00F14BF3 /* HeadNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeadNode.m; sourceTree = "<group>"; };
+		B60A9B071BA74D9F00F14BF3 /* GroundNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroundNode.h; sourceTree = "<group>"; };
+		B60A9B081BA74D9F00F14BF3 /* GroundNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroundNode.m; sourceTree = "<group>"; };
+		B60A9B091BA74D9F00F14BF3 /* BallNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BallNode.h; sourceTree = "<group>"; };
+		B60A9B0A1BA74D9F00F14BF3 /* BallNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BallNode.m; sourceTree = "<group>"; };
+		B60A9B0B1BA74D9F00F14BF3 /* HomePageScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomePageScene.h; sourceTree = "<group>"; };
+		B60A9B0C1BA74D9F00F14BF3 /* HomePageScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomePageScene.m; sourceTree = "<group>"; };
+		B60A9B0D1BA74D9F00F14BF3 /* PhysicsWorldConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhysicsWorldConstants.h; sourceTree = "<group>"; };
+		B60A9B0E1BA74D9F00F14BF3 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
+		B60A9B0F1BA74D9F00F14BF3 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
+		B60A9B101BA74D9F00F14BF3 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		B60A9B171BA74DC200F14BF3 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		B60A9B191BA74E0E00F14BF3 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B60A9B1A1BA74E0E00F14BF3 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B60A9B1D1BA74FB000F14BF3 /* 1441323509_tmp_football__1_(iphone 5, 1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1441323509_tmp_football__1_(iphone 5, 1).png"; sourceTree = "<group>"; };
+		B60A9B1E1BA74FB000F14BF3 /* 1441323573_tmp_football__1_(iphone 5, 2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1441323573_tmp_football__1_(iphone 5, 2).png"; sourceTree = "<group>"; };
+		B60A9B1F1BA74FB000F14BF3 /* 1441323600_tmp_football__1_(3).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1441323600_tmp_football__1_(3).png"; sourceTree = "<group>"; };
+		B60A9B201BA74FB000F14BF3 /* 1441323638_tmp_football__1_(4).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1441323638_tmp_football__1_(4).png"; sourceTree = "<group>"; };
+		B60A9B211BA74FB000F14BF3 /* 1441323667_tmp_football__1_(5).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1441323667_tmp_football__1_(5).png"; sourceTree = "<group>"; };
 		B678CFC91B94FA9E001B9B56 /* KeepUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KeepUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B678CFCD1B94FA9E001B9B56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B678CFCE1B94FA9E001B9B56 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B678CFD01B94FA9E001B9B56 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		B678CFD11B94FA9E001B9B56 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B678CFD31B94FA9E001B9B56 /* GameScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
-		B678CFD41B94FA9E001B9B56 /* GameScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
-		B678CFD61B94FA9E001B9B56 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		B678CFD81B94FA9E001B9B56 /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
 		B678CFD91B94FA9E001B9B56 /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
 		B678CFDC1B94FA9E001B9B56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -55,22 +85,11 @@
 		B678CFE71B94FA9E001B9B56 /* KeepUpTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KeepUpTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B678CFEC1B94FA9E001B9B56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B678CFED1B94FA9E001B9B56 /* KeepUpTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeepUpTests.m; sourceTree = "<group>"; };
-		B678CFF71B94FB2F001B9B56 /* HomePageScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomePageScene.h; sourceTree = "<group>"; };
-		B678CFF81B94FB2F001B9B56 /* HomePageScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomePageScene.m; sourceTree = "<group>"; };
-		B678CFFA1B9507FE001B9B56 /* GroundNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroundNode.h; sourceTree = "<group>"; };
-		B678CFFB1B9507FE001B9B56 /* GroundNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GroundNode.m; sourceTree = "<group>"; };
-		B678CFFD1B950BFA001B9B56 /* BallNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BallNode.h; sourceTree = "<group>"; };
-		B678CFFE1B950BFA001B9B56 /* BallNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BallNode.m; sourceTree = "<group>"; };
-		B678D0001B95F726001B9B56 /* HeadNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeadNode.h; sourceTree = "<group>"; };
-		B678D0011B95F726001B9B56 /* HeadNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeadNode.m; sourceTree = "<group>"; };
 		B678D0041B95F8AF001B9B56 /* football.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = football.png; sourceTree = "<group>"; };
 		B678D0051B95F8AF001B9B56 /* goal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goal.png; sourceTree = "<group>"; };
 		B678D0061B95F8AF001B9B56 /* zidane1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zidane1.png; sourceTree = "<group>"; };
 		B678D0071B95F8AF001B9B56 /* zidane2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zidane2.png; sourceTree = "<group>"; };
 		B678D00C1B960B07001B9B56 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
-		B678D00E1B9655B0001B9B56 /* RestartLabelNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestartLabelNode.h; sourceTree = "<group>"; };
-		B678D00F1B9655B0001B9B56 /* RestartLabelNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestartLabelNode.m; sourceTree = "<group>"; };
-		B678D0111B976F8C001B9B56 /* PhysicsWorldConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PhysicsWorldConstants.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B60A9B181BA74DC200F14BF3 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,9 +111,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B60A9AFA1BA74CEE00F14BF3 /* music */ = {
+			isa = PBXGroup;
+			children = (
+				B60A9AFB1BA74CEE00F14BF3 /* backgroundMusic.wav */,
+				B60A9AFC1BA74CEE00F14BF3 /* boo.wav */,
+				B60A9AFD1BA74CEE00F14BF3 /* cheer.wav */,
+				B60A9AFE1BA74CEE00F14BF3 /* gameSong.mp3 */,
+				B60A9AFF1BA74CEE00F14BF3 /* hit.caf */,
+			);
+			path = music;
+			sourceTree = "<group>";
+		};
+		B60A9B1C1BA74FB000F14BF3 /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				B60A9B1D1BA74FB000F14BF3 /* 1441323509_tmp_football__1_(iphone 5, 1).png */,
+				B60A9B1E1BA74FB000F14BF3 /* 1441323573_tmp_football__1_(iphone 5, 2).png */,
+				B60A9B1F1BA74FB000F14BF3 /* 1441323600_tmp_football__1_(3).png */,
+				B60A9B201BA74FB000F14BF3 /* 1441323638_tmp_football__1_(4).png */,
+				B60A9B211BA74FB000F14BF3 /* 1441323667_tmp_football__1_(5).png */,
+			);
+			path = Icon;
+			sourceTree = "<group>";
+		};
 		B678CFC01B94FA9E001B9B56 = {
 			isa = PBXGroup;
 			children = (
+				B60A9B171BA74DC200F14BF3 /* AVFoundation.framework */,
 				B678CFCB1B94FA9E001B9B56 /* KeepUp */,
 				B678CFEA1B94FA9E001B9B56 /* KeepUpTests */,
 				B678CFCA1B94FA9E001B9B56 /* Products */,
@@ -112,23 +157,21 @@
 		B678CFCB1B94FA9E001B9B56 /* KeepUp */ = {
 			isa = PBXGroup;
 			children = (
-				B678CFD01B94FA9E001B9B56 /* AppDelegate.h */,
-				B678CFD11B94FA9E001B9B56 /* AppDelegate.m */,
-				B678D00E1B9655B0001B9B56 /* RestartLabelNode.h */,
-				B678D00F1B9655B0001B9B56 /* RestartLabelNode.m */,
-				B678D0111B976F8C001B9B56 /* PhysicsWorldConstants.h */,
-				B678D0001B95F726001B9B56 /* HeadNode.h */,
-				B678D0011B95F726001B9B56 /* HeadNode.m */,
-				B678CFFA1B9507FE001B9B56 /* GroundNode.h */,
-				B678CFFB1B9507FE001B9B56 /* GroundNode.m */,
-				B678CFFD1B950BFA001B9B56 /* BallNode.h */,
-				B678CFFE1B950BFA001B9B56 /* BallNode.m */,
-				B678CFF71B94FB2F001B9B56 /* HomePageScene.h */,
-				B678CFF81B94FB2F001B9B56 /* HomePageScene.m */,
-				B678CFD31B94FA9E001B9B56 /* GameScene.h */,
-				B678CFD41B94FA9E001B9B56 /* GameScene.m */,
-				B678CFD61B94FA9E001B9B56 /* GameScene.sks */,
+				B60A9B051BA74D9F00F14BF3 /* HeadNode.h */,
+				B60A9B061BA74D9F00F14BF3 /* HeadNode.m */,
+				B60A9B071BA74D9F00F14BF3 /* GroundNode.h */,
+				B60A9B081BA74D9F00F14BF3 /* GroundNode.m */,
+				B60A9B091BA74D9F00F14BF3 /* BallNode.h */,
+				B60A9B0A1BA74D9F00F14BF3 /* BallNode.m */,
+				B60A9B0B1BA74D9F00F14BF3 /* HomePageScene.h */,
+				B60A9B0C1BA74D9F00F14BF3 /* HomePageScene.m */,
+				B60A9B0D1BA74D9F00F14BF3 /* PhysicsWorldConstants.h */,
+				B60A9B0E1BA74D9F00F14BF3 /* GameScene.h */,
+				B60A9B0F1BA74D9F00F14BF3 /* GameScene.m */,
+				B60A9B101BA74D9F00F14BF3 /* GameScene.sks */,
 				B678CFDB1B94FA9E001B9B56 /* Main.storyboard */,
+				B60A9B1C1BA74FB000F14BF3 /* Icon */,
+				B60A9AFA1BA74CEE00F14BF3 /* music */,
 				B678CFDE1B94FA9E001B9B56 /* Images.xcassets */,
 				B678D0031B95F8AF001B9B56 /* Photos */,
 				B678CFE01B94FA9E001B9B56 /* LaunchScreen.xib */,
@@ -140,6 +183,8 @@
 		B678CFCC1B94FA9E001B9B56 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B60A9B191BA74E0E00F14BF3 /* AppDelegate.h */,
+				B60A9B1A1BA74E0E00F14BF3 /* AppDelegate.m */,
 				B678CFD81B94FA9E001B9B56 /* GameViewController.h */,
 				B678CFD91B94FA9E001B9B56 /* GameViewController.m */,
 				B678CFCD1B94FA9E001B9B56 /* Info.plist */,
@@ -257,13 +302,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B60A9B241BA74FB000F14BF3 /* 1441323600_tmp_football__1_(3).png in Resources */,
+				B60A9B021BA74CEE00F14BF3 /* cheer.wav in Resources */,
+				B60A9B261BA74FB000F14BF3 /* 1441323667_tmp_football__1_(5).png in Resources */,
+				B60A9B011BA74CEE00F14BF3 /* boo.wav in Resources */,
 				B678D0081B95F8AF001B9B56 /* football.png in Resources */,
 				B678CFE21B94FA9E001B9B56 /* LaunchScreen.xib in Resources */,
+				B60A9B221BA74FB000F14BF3 /* 1441323509_tmp_football__1_(iphone 5, 1).png in Resources */,
+				B60A9B161BA74D9F00F14BF3 /* GameScene.sks in Resources */,
+				B60A9B041BA74CEE00F14BF3 /* hit.caf in Resources */,
+				B60A9B231BA74FB000F14BF3 /* 1441323573_tmp_football__1_(iphone 5, 2).png in Resources */,
 				B678D00D1B960B08001B9B56 /* ball.png in Resources */,
 				B678D0091B95F8AF001B9B56 /* goal.png in Resources */,
 				B678D00B1B95F8AF001B9B56 /* zidane2.png in Resources */,
 				B678CFDF1B94FA9E001B9B56 /* Images.xcassets in Resources */,
-				B678CFD71B94FA9E001B9B56 /* GameScene.sks in Resources */,
+				B60A9B001BA74CEE00F14BF3 /* backgroundMusic.wav in Resources */,
+				B60A9B031BA74CEE00F14BF3 /* gameSong.mp3 in Resources */,
+				B60A9B251BA74FB000F14BF3 /* 1441323638_tmp_football__1_(4).png in Resources */,
 				B678D00A1B95F8AF001B9B56 /* zidane1.png in Resources */,
 				B678CFDD1B94FA9E001B9B56 /* Main.storyboard in Resources */,
 			);
@@ -283,15 +338,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B60A9B121BA74D9F00F14BF3 /* GroundNode.m in Sources */,
 				B678CFDA1B94FA9E001B9B56 /* GameViewController.m in Sources */,
-				B678CFD21B94FA9E001B9B56 /* AppDelegate.m in Sources */,
-				B678CFFC1B9507FE001B9B56 /* GroundNode.m in Sources */,
-				B678CFF91B94FB2F001B9B56 /* HomePageScene.m in Sources */,
-				B678CFD51B94FA9E001B9B56 /* GameScene.m in Sources */,
-				B678D0101B9655B0001B9B56 /* RestartLabelNode.m in Sources */,
-				B678D0021B95F726001B9B56 /* HeadNode.m in Sources */,
-				B678CFFF1B950BFA001B9B56 /* BallNode.m in Sources */,
+				B60A9B131BA74D9F00F14BF3 /* BallNode.m in Sources */,
+				B60A9B151BA74D9F00F14BF3 /* GameScene.m in Sources */,
+				B60A9B1B1BA74E0E00F14BF3 /* AppDelegate.m in Sources */,
 				B678CFCF1B94FA9E001B9B56 /* main.m in Sources */,
+				B60A9B141BA74D9F00F14BF3 /* HomePageScene.m in Sources */,
+				B60A9B111BA74D9F00F14BF3 /* HeadNode.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

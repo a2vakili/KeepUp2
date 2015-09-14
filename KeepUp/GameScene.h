@@ -10,6 +10,4 @@
 
 @interface GameScene : SKScene<SKPhysicsContactDelegate>
 
-@property(nonatomic,assign) NSInteger retrieveScore;
-
 @end

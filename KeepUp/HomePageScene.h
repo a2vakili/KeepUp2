@@ -10,4 +10,6 @@
 
 @interface HomePageScene : SKScene
 
+@property(nonatomic,assign) NSInteger highScore;
+
 @end

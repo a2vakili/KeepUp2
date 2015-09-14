@@ -25,12 +25,6 @@
 }
 
 
-//+(instancetype)head2AtPosition:(CGPoint)position{
-//    HeadNode *head = [HeadNode spriteNodeWithImageNamed:@"zidane2"];
-//    head.position = position;
-//    head.name = @"Zidane2";
-//    return head;
-//}
 -(void)setUpAnimations{
     NSArray *textures = @[[SKTexture textureWithImageNamed:@"zidane2"],
                           [SKTexture textureWithImageNamed:@"zidane1"]];

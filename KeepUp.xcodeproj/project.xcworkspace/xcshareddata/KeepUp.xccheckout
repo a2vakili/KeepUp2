@@ -10,14 +10,14 @@
 	<string>KeepUp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F06A66B4C2577C0CE04ABE59CC9213A2BCBB8B83</key>
+		<key>7D61C3B806E76A60E67F3D6ED2295DD0D81D5F6E</key>
 		<string>https://github.com/a2vakili/KeepUp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>KeepUp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F06A66B4C2577C0CE04ABE59CC9213A2BCBB8B83</key>
+		<key>7D61C3B806E76A60E67F3D6ED2295DD0D81D5F6E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F06A66B4C2577C0CE04ABE59CC9213A2BCBB8B83</string>
+	<string>7D61C3B806E76A60E67F3D6ED2295DD0D81D5F6E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F06A66B4C2577C0CE04ABE59CC9213A2BCBB8B83</string>
+			<string>7D61C3B806E76A60E67F3D6ED2295DD0D81D5F6E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>KeepUp</string>
 		</dict>
